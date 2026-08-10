@@ -58,7 +58,7 @@ Indian Institute of Technology (Indian School of Mines), Dhanbad
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/chaithanya-bandari-94a6632a) · [GitHub](https://github.com/chai-04) · [Email](mailto:chaithanyabandari30@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chaithanya-bandari-94a6632a8/) · [GitHub](https://github.com/chai-04) · [Email](mailto:chaithanyabandari30@gmail.com)
 <!--
 **chai-04/chai-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
